@@ -1,6 +1,9 @@
 # Witboost-MCP
 
 
+![Witboost MCP Server](docs/image.png)
+
+
 # Data Product Test API
 
 A FastMCP-based API to evaluate data products against computational policies.
