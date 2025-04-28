@@ -1,2 +1,2 @@
 # Governance evaluation service endpoint
-governance_eval_url: "http://localhost:8080/governance/v1/computational-governance/evaluate"
+governance_url: "http://localhost:8088/datamesh.provisioningcoordinator"
