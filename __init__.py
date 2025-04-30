@@ -1,1 +1,0 @@
-from .server import mcp, test_data_product

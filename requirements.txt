@@ -1,4 +1,4 @@
-mcp-sdk>=0.1.0               # MCP Python SDK
+fastmcp>=2.2.5               # MCP Python SDK
 pydantic>=1.10
 httpx>=0.24
 pytest>=7.0
